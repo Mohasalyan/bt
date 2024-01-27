@@ -45,4 +45,3 @@ const Note = ({ noteId }) => {
     } else return null
 }
 export default Note
-export 
